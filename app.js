@@ -20,5 +20,4 @@ var six = 'indigo';
 var seven = 'violet';
 
 //printing the variables in a specific order to the user.
-console.log(phrase + one + two + three + four + five + six + seven + endingPhrase);
-
+console.log(phrase, one, two, three, four, five, six, seven, endingPhrase);
